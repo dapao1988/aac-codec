@@ -1,0 +1,10 @@
+﻿Build started 2018/2/4 23:16:13.
+     1>Project "F:\cannon\vsWorkSpace\aac-codec\build\ZERO_CHECK.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because F:/cannon/vsWorkSpace/aac-codec/build/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "F:\cannon\vsWorkSpace\aac-codec\build\ZERO_CHECK.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

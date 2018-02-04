@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\cannon\vsWorkSpace\aac-codec\build\CMakeFiles\9a4b34fe50214322e794a052c0690420\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0EB13057-16E4-3678-8396-A81D3AE54F69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

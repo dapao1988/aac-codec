@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aac_ram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aac_rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_drc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_hcr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_hcr_bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_hcrs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_pns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdec_tns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\aacdecoder_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\channel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\channelinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\conceal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\ldfiltbank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\pulsedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\rvlc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\rvlcbit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\rvlcconceal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACdec\src\stereo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacEnc_ram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacEnc_rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacenc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacenc_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacenc_pns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\aacenc_tns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\adj_thr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\band_nrg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\bandwidth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\bit_cnt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\bitenc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\block_switch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\channel_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\chaosmeasure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\dyn_bits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\grp_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\intensity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\line_pe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\metadata_compressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\metadata_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\ms_stereo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\noisedet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\pnsparam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\pre_echo_control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\psy_configuration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\psy_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\qc_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\quantize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\sf_estim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\spreading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\tonality.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libAACenc\src\transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_bitbuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_crc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_hybrid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_tools_rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\FDK_trigFcts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\autocorr2nd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\dct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\fft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\fft_rad2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\fixpoint_math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\mdct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\qmf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libFDK\src\scale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_adif.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_adts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_asc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_drm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_latm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPDec\src\tpdec_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPEnc\src\tpenc_adif.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPEnc\src\tpenc_adts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPEnc\src\tpenc_asc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPEnc\src\tpenc_latm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libMpegTPEnc\src\tpenc_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libPCMutils\src\limiter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libPCMutils\src\pcmutils_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\env_calc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\env_dec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\env_extr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\huff_dec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\lpp_tran.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\psbitdec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\psdec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\psdec_hybrid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbr_crc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbr_deb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbr_dec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbr_ram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbr_rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbrdec_drc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbrdec_freq_sca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRdec\src\sbrdecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\bit_sbr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\code_env.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\env_bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\env_est.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\fram_gen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\invf_est.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\mh_det.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\nf_est.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\ps_bitenc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\ps_encode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\ps_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\resampler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\sbr_encoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\sbr_misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\sbr_ram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\sbr_rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\sbrenc_freq_sca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\ton_corr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSBRenc\src\tran_det.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSYS\src\cmdl_parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSYS\src\conv_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSYS\src\genericStds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\libSYS\src\wav_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\aac-enc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\cannon\vsWorkSpace\aac-codec\wavreader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\cannon\vsWorkSpace\aac-codec\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8CD7CA04-1C5C-3933-99A7-0317E9C34465}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
